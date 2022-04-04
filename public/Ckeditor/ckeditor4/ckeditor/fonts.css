@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'irsans';
+    src: url('font/irsans.woff');
+    src: url('font/irsans.woff') format('woff'),
+         url('font/irsans.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+
+@font-face {
+    font-family: 'iranian-sans-black';
+    src: url('font/IRANSansWeb(FaNum)_Black.eot?#iefix') format('embedded-opentype'),
+         url('font/IRANSansWeb(FaNum)_Black.woff') format('woff'),
+         url('font/IRANSansWeb(FaNum)_Black.woff2') format('woff2'),
+         url('font/IRANSansWeb(FaNum)_Black.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'iranian-sans-bold';
+    src: url('font/IRANSansWeb(FaNum)_Bold.eot?#iefix') format('embedded-opentype'),
+         url('font/IRANSansWeb(FaNum)_Bold.woff') format('woff'),
+         url('font/IRANSansWeb(FaNum)_Bold.woff2') format('woff2'),
+         url('font/IRANSansWeb(FaNum)_Bold.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'iranian-sans-light';
+    src: url('font/IRANSansWeb(FaNum)_Light.eot?#iefix') format('embedded-opentype'),
+         url('font/IRANSansWeb(FaNum)_Light.woff') format('woff'),
+         url('font/IRANSansWeb(FaNum)_Light.woff2') format('woff2'),
+         url('font/IRANSansWeb(FaNum)_Light.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'iranian-sans-medium';
+    src: url('font/IRANSansWeb(FaNum)_Medium.eot?#iefix') format('embedded-opentype'),
+         url('font/IRANSansWeb(FaNum)_Medium.woff') format('woff'),
+         url('font/IRANSansWeb(FaNum)_Medium.woff2') format('woff2'),
+         url('font/IRANSansWeb(FaNum)_Medium.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'iranian-sans-ultralight';
+    src: url('font/IRANSansWeb(FaNum)_UltraLight.eot?#iefix') format('embedded-opentype'),
+         url('font/IRANSansWeb(FaNum)_UltraLight.woff') format('woff'),
+         url('font/IRANSansWeb(FaNum)_UltraLight.woff2') format('woff2'),
+         url('font/IRANSansWeb(FaNum)_UltraLight.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'Yekan';
+    src: url('font/Yekan.eot');
+    src: url('font/Yekan.eot?#iefix') format('embedded-opentype'),
+         url('font/Yekan.woff') format('woff'),
+         url('font/Yekan.ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'iranian-sans';
+    src: url('font/IRANSansWeb(FaNum).eot?#iefix') format('embedded-opentype'),
+         url('font/IRANSansWeb(FaNum).woff') format('woff'),
+         url('font/IRANSansWeb(FaNum).woff2') format('woff2'),
+         url('font/IRANSansWeb(FaNum).ttf') format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
+
+body
+{
+    /* Font */
+    font-family: 'iranian-sans' !important;
+    font-size: 14px;
+}
